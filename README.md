@@ -1,2 +1,6 @@
-# no-parachute-flash
-One of my first finished games
+# No Parachute
+
+One of my first finished games. This one is created with Adobe Flash and ActionScript 3.
+
+You can ~try to~ play it [here](https://www.kongregate.com/games/dcr30/no-parachute).
+![Screenshot](https://i.imgur.com/VCxDrrd.png)
